@@ -1,0 +1,15 @@
+{
+  "name": "Creative Pairing Matrix",
+  "short_name": "Pairing Matrix",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2C2620",
+  "theme_color": "#2C2620",
+  "description": "Abbinamenti gastronomici creativi — from Gabry for Chef Luca Bellanca",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
