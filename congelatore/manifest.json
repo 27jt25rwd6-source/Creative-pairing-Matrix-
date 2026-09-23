@@ -1,0 +1,14 @@
+{
+  "name": "Congelatore — Stoccaggio alimenti",
+  "short_name": "Congelatore",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0E1B26",
+  "theme_color": "#0E1B26",
+  "description": "Tieni traccia di cosa c'è nel congelatore, dove si trova e quando va consumato.",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
